@@ -23,3 +23,12 @@ This repository contains my custom scripts, workflow notes, and environment file
 
 ## Note
 This repository contains my own wrapper scripts and workflow documentation. External tools such as MetaCSST are not redistributed here.
+
+## Repository contents
+- `scripts/` custom analysis scripts
+- `env/` exported conda environments
+- `docs/` workflow notes
+- `results_example/` selected small example outputs
+
+## Note
+This repository contains my own workflow scripts and documentation, not redistributed third-party software.
