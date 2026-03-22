@@ -1,0 +1,14 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name            accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----  -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF6273              PF19789.7    168 GUT_GENOME066135_13_2 -            255   3.6e-08   34.0   2.6   1   1   1.4e-11     4e-07   30.6   2.6    39   167   116   253    14   254 0.67 Domain of unknown function (DUF6273)
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      GUT_GENOME066135/07_pfam/target_proteins.faa
+# Target file:     /home/tsr/pfam_dgr/Pfam-A.hmm
+# Option settings: hmmscan --domtblout GUT_GENOME066135/07_pfam/GUT_GENOME066135.targets.cutga.domtblout --cut_ga --cpu 8 /home/tsr/pfam_dgr/Pfam-A.hmm GUT_GENOME066135/07_pfam/target_proteins.faa 
+# Current dir:     /home/tsr/prodigal_gut_01_results
+# Date:            Wed Mar  4 03:04:59 2026
+# [ok]

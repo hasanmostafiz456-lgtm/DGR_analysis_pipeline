@@ -1,0 +1,4 @@
+# Ignore pipeline and annotation logs
+*.log
+confirmed_loci/**/07_pfam/*.log
+confirmed_loci/**/*.prodigal.log
